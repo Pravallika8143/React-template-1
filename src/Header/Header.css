@@ -4,13 +4,16 @@
   justify-content: space-between;
   margin: 10px;
 }
+
 .mynav img{
   width: 120px;
 }
+
 .mynav ul {
   display: flex;
   padding: 0px;
 }
+
 .mynav ul li {
   list-style: none;
   width: 100px;
