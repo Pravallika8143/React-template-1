@@ -11,5 +11,4 @@ function MainArea(){
         </div>
     )
 }
-
 export default MainArea;
